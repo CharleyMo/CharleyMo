@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharleyMo
 - 👀 I’m a business leader in Data & Analytics 
-- 🌱 I’m currently exploring Data Engineering 
+- 🌱 I’m currently exploring GitHub
 - 💞️ I’m looking to collaborate with the data community 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
