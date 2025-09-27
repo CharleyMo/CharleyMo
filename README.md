@@ -1,5 +1,5 @@
 - 👋 Hi, I’m The Data Oke
-- 👀 I’m a business leader in Data & Analytics 
+- 👀 I’m a Data & Analytics professional
 - 🌱 I’m currently exploring GitHub
 - 💞️ I’m looking to collaborate with the data community 
 - 📫 How to reach me ...
